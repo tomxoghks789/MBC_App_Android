@@ -31,9 +31,11 @@ item들이 순차적으로 Lazy loading 되도록 하고 좌측 상단에 무료
 ## 6. 음성 검색과 저장소 관련 권한 부여 로직 변경
 기존에는 앱 최초 실행시 일괄적으로 권한을 부여 받는 형태였지만 https://developer.android.com/guide/topics/permissions/overview 에 워크플로우를 동일하게 구현하여 불필요한 권한 부여가 이루어지지 않도록 구현
 
-<img src="https://user-images.githubusercontent.com/64320373/133108421-343240ef-f647-4d01-850b-1f08149ee930.png" width=50%></img>
-<img src="https://user-images.githubusercontent.com/64320373/133108427-a1c8652b-6ded-4546-9364-4f09e3e0f8f1.png" width=50%></img>
-<img src="https://user-images.githubusercontent.com/64320373/133108430-01f5f011-471c-4810-93c1-ff3363365e6b.png" width=50%></img>
+<img src="https://user-images.githubusercontent.com/64320373/133108421-343240ef-f647-4d01-850b-1f08149ee930.png" width=30%></img>
+
+<img src="https://user-images.githubusercontent.com/64320373/133108427-a1c8652b-6ded-4546-9364-4f09e3e0f8f1.png" width=30%></img>
+
+<img src="https://user-images.githubusercontent.com/64320373/133108430-01f5f011-471c-4810-93c1-ff3363365e6b.png" width=30%></img>
 
 ## 7. 플렛 브레드 사의 광고 적용
 https://www.gomcorp.com/service/video.gom, VAST 3.0 규격의 XML Parsing, TikXML 라이브러리 사용
