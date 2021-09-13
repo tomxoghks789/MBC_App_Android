@@ -11,3 +11,7 @@ MBC앱 4.1.1 업데이트
 ![1](https://user-images.githubusercontent.com/64320373/133109401-29dda93a-ca53-46b0-9a44-34c71efe8f2e.png)
 ### 변경된 하단 메뉴
 ![2](https://user-images.githubusercontent.com/64320373/133109411-dff336a6-e0e4-4682-bdfd-5b1ae6822245.png)
+
+## 2. 홈 메뉴에 타임라인 구현 (WebView 처리 with JavascriptInterface, 다양한 기능이 동작하도록 구현)
+홈 화면이 웹뷰로 구성됨에 따라 JavascriptInterface를 사용하여 기획서에 정의된 기능대로 동작하도록 구현
+![3](https://user-images.githubusercontent.com/64320373/133109413-01af21c7-b110-4b8c-b189-272db164e11b.jpg)
