@@ -6,4 +6,4 @@ MBC앱 4.1.1 업데이트
 내가 작업한 내용을 기재한다.
 
 ## 1. 하단의 Bottom navigation 교체작업 (Material2의 BottomNavigationView를 사용)
-
+![1](https://user-images.githubusercontent.com/64320373/133109401-29dda93a-ca53-46b0-9a44-34c71efe8f2e.png)
