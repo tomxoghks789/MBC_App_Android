@@ -18,6 +18,7 @@ MBC앱 4.1.1 업데이트
 <img src="https://user-images.githubusercontent.com/64320373/133109413-01af21c7-b110-4b8c-b189-272db164e11b.jpg" width=30%></img>
 
 ## 3. 뉴스에 접근 시 Agent를 적용하여 구현 의도대로 화면이 구성되도록 구현
+
 ## 4. 온에어 탭에서 댓글 작성 시 영상 재생이 멈추던 현상 수정
 Activity를 겹치던 구현 방식에서 DialogFragment로 교체하여 댓글을 작성하면서도 아래의 Activity가 멈추지 않도록 구현함
 
