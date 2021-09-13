@@ -8,7 +8,7 @@ MBC앱 4.1.1 업데이트
 ## 1. 하단의 Bottom navigation 교체작업 (Material2의 BottomNavigationView를 사용)
 기존에는 Custom된 하단 메뉴바를 사용하였는데 디자인 시안이 변경됨에 따라 그것들을 걷어내고 Matrial2의 BottomNavigationView를 적용하였다.
 #### 기존의 하단 메뉴
-![1](https://user-images.githubusercontent.com/64320373/133109401-29dda93a-ca53-46b0-9a44-34c71efe8f2e.png)
+![1](https://user-images.githubusercontent.com/64320373/133109401-29dda93a-ca53-46b0-9a44-34c71efe8f2e.png){: width="50%"}
 #### 변경된 하단 메뉴
 ![2](https://user-images.githubusercontent.com/64320373/133109411-dff336a6-e0e4-4682-bdfd-5b1ae6822245.png)
 
